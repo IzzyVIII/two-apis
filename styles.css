@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  text-align: center;
+}
+
+#status {
+  margin: 1rem 0;
+  font-style: italic;
+  color: #555;
+}
+
+#result {
+  margin-top: 2rem;
+}
