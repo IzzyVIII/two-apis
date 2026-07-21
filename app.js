@@ -7,6 +7,9 @@
 //    - clear #status when done
 // 3. Wrap the fetches in try/catch and show an error message in #status if either fails
 
+//Will be using the DOG API
+
+
 const statusEl = document.querySelector("#status");
 const resultEl = document.querySelector("#result");
 const actionEl = document.querySelector("#action");
